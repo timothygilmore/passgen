@@ -1,5 +1,5 @@
 //use std::vec;
-
+use rand::Rng;
 fn main() {
     let char_bank: [char; 55] = [
     'a', 'b', 'c', 'd', 'e', 
@@ -14,5 +14,9 @@ fn main() {
     'T', 'U', 'V', 'W', 'X',
     'Y', 'Z', '*', '@', '!' ];
 
-    println!("{}",char_bank[1])
+    for _x in 1..17 {
+        let  c = rand::thread_rng().gen_range(0..=54);
+       print!("{}",char_bank[c]) 
+    }
+    
 }
