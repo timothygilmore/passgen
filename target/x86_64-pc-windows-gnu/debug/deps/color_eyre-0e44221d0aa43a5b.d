@@ -1,0 +1,14 @@
+/target/x86_64-pc-windows-gnu/debug/deps/libcolor_eyre-0e44221d0aa43a5b.rmeta: /cargo/registry/src/index.crates.io-6f17d22bba15001f/color-eyre-0.6.3/src/lib.rs /cargo/registry/src/index.crates.io-6f17d22bba15001f/color-eyre-0.6.3/src/config.rs /cargo/registry/src/index.crates.io-6f17d22bba15001f/color-eyre-0.6.3/src/fmt.rs /cargo/registry/src/index.crates.io-6f17d22bba15001f/color-eyre-0.6.3/src/handler.rs /cargo/registry/src/index.crates.io-6f17d22bba15001f/color-eyre-0.6.3/src/private.rs /cargo/registry/src/index.crates.io-6f17d22bba15001f/color-eyre-0.6.3/src/section/mod.rs /cargo/registry/src/index.crates.io-6f17d22bba15001f/color-eyre-0.6.3/src/section/help.rs /cargo/registry/src/index.crates.io-6f17d22bba15001f/color-eyre-0.6.3/src/writers.rs
+
+/target/x86_64-pc-windows-gnu/debug/deps/libcolor_eyre-0e44221d0aa43a5b.rlib: /cargo/registry/src/index.crates.io-6f17d22bba15001f/color-eyre-0.6.3/src/lib.rs /cargo/registry/src/index.crates.io-6f17d22bba15001f/color-eyre-0.6.3/src/config.rs /cargo/registry/src/index.crates.io-6f17d22bba15001f/color-eyre-0.6.3/src/fmt.rs /cargo/registry/src/index.crates.io-6f17d22bba15001f/color-eyre-0.6.3/src/handler.rs /cargo/registry/src/index.crates.io-6f17d22bba15001f/color-eyre-0.6.3/src/private.rs /cargo/registry/src/index.crates.io-6f17d22bba15001f/color-eyre-0.6.3/src/section/mod.rs /cargo/registry/src/index.crates.io-6f17d22bba15001f/color-eyre-0.6.3/src/section/help.rs /cargo/registry/src/index.crates.io-6f17d22bba15001f/color-eyre-0.6.3/src/writers.rs
+
+/target/x86_64-pc-windows-gnu/debug/deps/color_eyre-0e44221d0aa43a5b.d: /cargo/registry/src/index.crates.io-6f17d22bba15001f/color-eyre-0.6.3/src/lib.rs /cargo/registry/src/index.crates.io-6f17d22bba15001f/color-eyre-0.6.3/src/config.rs /cargo/registry/src/index.crates.io-6f17d22bba15001f/color-eyre-0.6.3/src/fmt.rs /cargo/registry/src/index.crates.io-6f17d22bba15001f/color-eyre-0.6.3/src/handler.rs /cargo/registry/src/index.crates.io-6f17d22bba15001f/color-eyre-0.6.3/src/private.rs /cargo/registry/src/index.crates.io-6f17d22bba15001f/color-eyre-0.6.3/src/section/mod.rs /cargo/registry/src/index.crates.io-6f17d22bba15001f/color-eyre-0.6.3/src/section/help.rs /cargo/registry/src/index.crates.io-6f17d22bba15001f/color-eyre-0.6.3/src/writers.rs
+
+/cargo/registry/src/index.crates.io-6f17d22bba15001f/color-eyre-0.6.3/src/lib.rs:
+/cargo/registry/src/index.crates.io-6f17d22bba15001f/color-eyre-0.6.3/src/config.rs:
+/cargo/registry/src/index.crates.io-6f17d22bba15001f/color-eyre-0.6.3/src/fmt.rs:
+/cargo/registry/src/index.crates.io-6f17d22bba15001f/color-eyre-0.6.3/src/handler.rs:
+/cargo/registry/src/index.crates.io-6f17d22bba15001f/color-eyre-0.6.3/src/private.rs:
+/cargo/registry/src/index.crates.io-6f17d22bba15001f/color-eyre-0.6.3/src/section/mod.rs:
+/cargo/registry/src/index.crates.io-6f17d22bba15001f/color-eyre-0.6.3/src/section/help.rs:
+/cargo/registry/src/index.crates.io-6f17d22bba15001f/color-eyre-0.6.3/src/writers.rs:
