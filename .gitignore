@@ -2,3 +2,6 @@ target/debug/.fingerprint
 target/debug/incremental
 target
 .github
+/.idea/modules.xml
+/.idea/passgen.iml
+/.idea/vcs.xml

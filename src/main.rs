@@ -16,16 +16,14 @@ fn main() {
     'T', 'U', 'V', 'W', 'X',
     'Y', 'Z', '*', '@', '!' ];
 
-    const FILLER:char = 'a';
+    const FILLER: char = 'a';
 
-    let mut pass_array :[&char; 16] = [&FILLER; 16];
-    let mut password :&str = "";
+    let mut pass_array: [char; 16]= [FILLER; 16];
     for x in 1..16 {
         let  c = rand::thread_rng().gen_range(0..=64);
-        pass_array[x] = &char_bank[c];
-        password = pass_array.iter().collect();
-
+        pass_array[x] = char_bank[c];
     }
+    let password = String::from_iter(pass_array);
     print!("{}",password);
     
 }
