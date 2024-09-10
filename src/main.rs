@@ -4,7 +4,7 @@ use figleter::FIGfont;
 
 fn main() {
     let standard_font = FIGfont::standard().unwrap();
-    let banner = standard_font.convert("Passgen");
+    let banner = standard_font.convert("*******gen");
 
     println!("{}", banner.unwrap());
     println!("Here is your password: \n\n");
