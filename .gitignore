@@ -1,5 +1,6 @@
 target/debug/.fingerprint
 target/debug/incremental
+/target/
 target
 .github
 /.idea/modules.xml
